@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>122944290744-c6o4ut4r2ains4o78kishpciqodgrj10.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.122944290744-c6o4ut4r2ains4o78kishpciqodgrj10</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBaINfAtDICPnJfSNo-Lok_-PtCtne8Yac</string>
+	<key>GCM_SENDER_ID</key>
+	<string>122944290744</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>munksejer.BoardgameStarter</string>
+	<key>PROJECT_ID</key>
+	<string>boardgamepickerios</string>
+	<key>STORAGE_BUCKET</key>
+	<string>boardgamepickerios.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:122944290744:ios:a2bd508eebce2af5f3594d</string>
+</dict>
+</plist>
